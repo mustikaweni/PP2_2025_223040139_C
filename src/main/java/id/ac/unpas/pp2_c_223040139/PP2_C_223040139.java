@@ -12,5 +12,7 @@ public class PP2_C_223040139 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+         System.out.println("saya mustika!");
+        
     }
 }
